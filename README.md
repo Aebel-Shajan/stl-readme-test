@@ -31,3 +31,5 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+<script src="https://embed.github.com/view/3d/aebel-shajan/stl-readme-test/blob/main/assets/scene.stl"></script>
